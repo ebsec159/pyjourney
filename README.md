@@ -1,2 +1,2 @@
-# automate
-basic_automation
+# Basic Python
+basic python functions
